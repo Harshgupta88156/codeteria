@@ -1,0 +1,17 @@
+.icon-container div {
+    font-size: 24px; /* Adjust the size (in px) */
+    color: gray; /* Default color */
+    transition: color 0.2s, transform 0.2s; /* Smooth transition */
+}
+
+.icon-container div.instagram:hover {
+    color: #D62976; /* Instagram hover color */
+}
+
+.icon-container div.facebook:hover {
+    color: #3b5998; /* Facebook hover color */
+}
+
+.icon-container div.twitter:hover {
+    color: black; /* Twitter hover color */
+}
